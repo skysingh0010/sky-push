@@ -1,1 +1,1 @@
-Lets learn github actions today
+Lets learn github actions today, if changes happens python script will run
